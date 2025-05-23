@@ -175,7 +175,8 @@ cython_debug/
 .pypirc
 
 # VSCode 개인 설정
-.vscode/
+!.vscode/settings.json
+
 
 # 환경 변수 파일
 .env
