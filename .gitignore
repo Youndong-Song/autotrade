@@ -63,6 +63,7 @@ db.sqlite3-journal
 
 # Flask stuff:
 instance/
+
 .webassets-cache
 
 # Scrapy stuff:
@@ -172,3 +173,26 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# VSCode 개인 설정
+.vscode/
+
+# 환경 변수 파일
+.env
+*.env
+.env.*
+
+# 로그 파일
+*.log
+log/
+
+# Jupyter 관련 캐시
+.ipynb_checkpoints/
+
+# 데이터 파일 (백테스트/저장용)
+src/data/*.csv
+notebook/*.ipynb
+
+# macOS 시스템 파일
+.DS_Store
+
