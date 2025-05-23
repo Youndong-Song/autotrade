@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/Users/youndongsong/miniconda3/envs/autotrade-env/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.inheritEnv": false
+}
