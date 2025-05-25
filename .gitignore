@@ -184,8 +184,10 @@ cython_debug/
 .env.*
 
 # 로그 파일
+# Ignore log files but not the directory
 *.log
-log/
+!log/.gitkeep
+
 
 # Jupyter 관련 캐시
 .ipynb_checkpoints/
