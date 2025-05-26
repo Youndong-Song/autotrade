@@ -181,7 +181,7 @@ cython_debug/
 # 환경 변수 파일
 .env
 *.env
-.env.*
+!.env.example
 
 # 로그 파일
 # Ignore log files but not the directory
