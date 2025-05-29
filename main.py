@@ -1,4 +1,6 @@
-import sys
+def main():
+    print("Autotrade 프로젝트 실행 중입니다.")
 
-print("✅ 현재 사용 중인 Python 인터프리터 경로:")
-print(sys.executable)
+
+if __name__ == "__main__":
+    main()
